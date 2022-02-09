@@ -20,7 +20,7 @@ public:
 class Vector
 {
 public:
-	Vector() : x1(), y1(), z1()
+	Vector()
 	{}
 	Vector(double _x1, double _y1, double _z1) : x1(_x1), y1(_y1), z1(_z1)
 	{}
